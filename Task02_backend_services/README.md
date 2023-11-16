@@ -1,7 +1,20 @@
 # Back-End-Services-for-Accenture-AWS-Storage-System
+
 This is a RESTful APIs for file management that serves as second task for the cloud-based storage system project. It enables functionalities for file uploads, downloads, and sharing.
 
-## Overview 
+## Task Outline
+
+### Scenario:
+
+Develop RESTful APIs for file management in a cloud-based storage system. Enable functionalities for file uploads, downloads, and sharing.
+
+### Deliverable:
+
+- Well-documented RESTful APIs implemented using Python or Java.
+- Clean, well-structured, and well-commented code.
+
+## Overview
+
 This repository contains the backend implementation for a cloud-based storage system, providing RESTful APIs for file management. The implementation uses Python with the Flask framework and integrates with AWS S3 for file storage.
 
 ## Features
@@ -27,15 +40,15 @@ This repository contains the backend implementation for a cloud-based storage sy
    ```bash
    pip install Flask boto3 PyJWT
    ```
+
 2. Set up your AWS credentials by replacing `MY_AWS_ACCESS_KEY_ID` and `MY_AWS_SECRET_ACCESS_KEY` in the code.
 
 3. Replace `MY-bucket-name` with your actual AWS S3 bucket name in the code.
 
 4. Run the Flask application:
-    ```bash
-    python fileManagementRESTfulAPI.py
-    ```
-
+   ```bash
+   python fileManagementRESTfulAPI.py
+   ```
 
 ## Endpoints
 
@@ -75,4 +88,4 @@ This repository contains the backend implementation for a cloud-based storage sy
 
 - Feel free to clone, modify, and use this repository as a starting point for your cloud-based storage system.
 
-- For any questions or issues, please open an [issue](https://github.com/Farahat612/Back-End-Services-for-Accenture-AWS-Storage-System/issues).
+- For any questions or issues, please open an [issue](https://github.com/Farahat612/Accenture-Cloud-Based-Storage-System/issues).

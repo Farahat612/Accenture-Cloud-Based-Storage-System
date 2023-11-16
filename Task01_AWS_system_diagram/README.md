@@ -1,9 +1,21 @@
 # AWS Cloud-Based Storage System Architecture Diagram
+
 > This is a System Architecture Diagram that serves as first task of an AWS cloud-Based Storage System project for for Accenture company hosted by Qureos website.
 
 > <p align="center">
 >   <img width="100%" src="System Diagram.png">
 > </p>
+
+## Task outline
+
+### Scenario:
+
+Design a scalable and secure system architecture for a cloud-based storage service. The architecture should handle large amounts of data, ensure data security, and provide efficient access control mechanisms.
+
+### Deliverable:
+
+- Comprehensive system architecture diagram.
+- Document explaining design decisions, scalability considerations, and security measures.
 
 ## Overview
 
@@ -86,5 +98,3 @@ API Gateway can handle a large number of concurrent requests, with scalability m
 ## Conclusion
 
 The Cloud-Based Storage System Architecture is designed to be scalable, secure, and robust. Leveraging industry-leading cloud services ensures optimal performance and reliability. The design decisions, scalability considerations, and security measures collectively contribute to the creation of a resilient and efficient cloud-based storage system.
-
-

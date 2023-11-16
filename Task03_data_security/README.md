@@ -1,5 +1,17 @@
 # Data Security Measures for Accenture AWS Storage System
+
 This is a documentation for robust security measures that serves as third task for the cloud-based storage system for Accenture project, including file encryption, secure data transmission, user authentication, and access controls.
+
+## Task Outline
+
+### Scenario:
+
+Implement robust security measures for the cloud-based storage system, including file encryption, secure data transmission, user authentication, and access controls.
+
+### Deliverable:
+
+- Document detailing the implemented security measures.
+- Explanation of file encryption techniques, data transmission security protocols, and user authentication mechanisms.
 
 ## Overview
 
@@ -43,4 +55,4 @@ The implemented security measures form a multi-layered defense strategy, encompa
 
 Feel free to clone, modify, and use this repository as a starting point for your cloud-based storage system.
 
-For any questions or issues, please open an [issue](https://github.com/your_username/your_repo/issues).
+For any questions or issues, please open an [issue](https://github.com/Farahat612/Accenture-Cloud-Based-Storage-System/issues).
