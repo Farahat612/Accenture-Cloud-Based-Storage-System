@@ -3,6 +3,10 @@
 A project for Accenture company hosted by Qureos platform.
 Welcome to the Accenture Cloud-Based Storage System repository! This Data Engineering project for Accenture company hosted by Qureos platform encompasses the design, implementation, and security of a scalable cloud-based storage system hosted on AWS. The system is tailored to meet the storage needs of Accenture, ensuring robust security, efficient file management, and seamless scalability.
 
+> <p align="center">
+>   <img width="100%" src="certificate.png">
+> </p>
+
 ## Objectives
 
 The objective of this project is to assess the technical skills of potential Engineers for Accenture, a leading global IT services company. The assessment was conducted through three deliverables:
